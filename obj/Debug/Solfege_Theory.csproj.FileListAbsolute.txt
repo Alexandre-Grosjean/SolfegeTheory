@@ -1,0 +1,16 @@
+D:\Code-SSD\code_2025\Solfege_Theory\bin\Debug\Solfege_Theory.exe.config
+D:\Code-SSD\code_2025\Solfege_Theory\bin\Debug\Solfege_Theory.exe
+D:\Code-SSD\code_2025\Solfege_Theory\bin\Debug\Solfege_Theory.pdb
+D:\Code-SSD\code_2025\Solfege_Theory\obj\Debug\Solfege_Theory.csproj.AssemblyReference.cache
+D:\Code-SSD\code_2025\Solfege_Theory\obj\Debug\MainWindow.g.cs
+D:\Code-SSD\code_2025\Solfege_Theory\obj\Debug\App.g.cs
+D:\Code-SSD\code_2025\Solfege_Theory\obj\Debug\Solfege_Theory_Content.g.cs
+D:\Code-SSD\code_2025\Solfege_Theory\obj\Debug\Solfege_Theory_MarkupCompile.cache
+D:\Code-SSD\code_2025\Solfege_Theory\obj\Debug\Solfege_Theory_MarkupCompile.lref
+D:\Code-SSD\code_2025\Solfege_Theory\obj\Debug\MainWindow.baml
+D:\Code-SSD\code_2025\Solfege_Theory\obj\Debug\Solfege_Theory.g.resources
+D:\Code-SSD\code_2025\Solfege_Theory\obj\Debug\Solfege_Theory.Properties.Resources.resources
+D:\Code-SSD\code_2025\Solfege_Theory\obj\Debug\Solfege_Theory.csproj.GenerateResource.cache
+D:\Code-SSD\code_2025\Solfege_Theory\obj\Debug\Solfege_Theory.csproj.CoreCompileInputs.cache
+D:\Code-SSD\code_2025\Solfege_Theory\obj\Debug\Solfege_Theory.exe
+D:\Code-SSD\code_2025\Solfege_Theory\obj\Debug\Solfege_Theory.pdb
